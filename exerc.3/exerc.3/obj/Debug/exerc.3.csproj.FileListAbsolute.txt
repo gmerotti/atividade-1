@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\exerc.3\exerc.3\bin\Debug\exerc.3.exe.config
+C:\Users\aluno\source\repos\exerc.3\exerc.3\bin\Debug\exerc.3.exe
+C:\Users\aluno\source\repos\exerc.3\exerc.3\bin\Debug\exerc.3.pdb
+C:\Users\aluno\source\repos\exerc.3\exerc.3\obj\Debug\exerc.3.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\exerc.3\exerc.3\obj\Debug\exerc.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\exerc.3\exerc.3\obj\Debug\exerc.3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\exerc.3\exerc.3\obj\Debug\exerc.3.exe
+C:\Users\aluno\source\repos\exerc.3\exerc.3\obj\Debug\exerc.3.pdb
